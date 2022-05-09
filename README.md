@@ -1,6 +1,10 @@
-# MeltwaterExercise
-Fun assignment 
- Meltwater Technical Exercise
+#  Meltwater Technical Exercise
+Used postgresql, springframework.boot,  "@angular/cli": "~13.3.5", "@angular/compiler-cli": "~13.3.0"
+Backend   private server = 'http://localhost:8080'; (Typical java spring app build run) 
+Frontend 'http://localhost:4200' (angular app npm install npm start.. etc) 
+Add the .txt files in the git repo to ("user.home") + "/Downloads/uploads/" for quicker start up and full access to features 
+
+
 The purpose of this assignment is to get a feel for how you approach technical and programming problems. There is no ‘right’ or ‘wrong’ answer. Think about the problem and do the best you can, and be prepared to talk about the process you followed and any questions or problems you encountered.
 Assignment Part 1
 You work for the CIA. You are given a software engineering assignment related to processing classified documents.
