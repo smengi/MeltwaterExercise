@@ -4,6 +4,7 @@ Backend   private server = 'http://localhost:8080'; (Typical java spring app bui
 Frontend 'http://localhost:4200' (angular app npm install npm start.. etc) 
 Add the .txt files in the git repo to ("user.home") + "/Downloads/uploads/" for quicker start up and full access to features 
 
+//todo Front end Visual studio IDE decided to go nuclear me on and destroyed all my commits other than the inintal start up of the project. This is why I should have just used webstorm.  Will have to redo the front end from scratch. Should be quicker to go from 0% to 90-95% but the last 5% will be longer because there was some cool neat things I found out about with regex, angular, DB and java I will ahve to go back and look at on how it was elegantly implemented.
 
 The purpose of this assignment is to get a feel for how you approach technical and programming problems. There is no ‘right’ or ‘wrong’ answer. Think about the problem and do the best you can, and be prepared to talk about the process you followed and any questions or problems you encountered.
 Assignment Part 1
